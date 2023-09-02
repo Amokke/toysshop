@@ -1,0 +1,26 @@
+[ {
+  "id" : 1,
+  "chanceFalling" : 75,
+  "quantity" : 7,
+  "name" : "Кубик"
+}, {
+  "id" : 2,
+  "chanceFalling" : 61,
+  "quantity" : 4,
+  "name" : "Вертолет"
+}, {
+  "id" : 3,
+  "chanceFalling" : 73,
+  "quantity" : 6,
+  "name" : "Мячик"
+}, {
+  "id" : 4,
+  "chanceFalling" : 25,
+  "quantity" : 2,
+  "name" : "Робот"
+}, {
+  "id" : 5,
+  "chanceFalling" : 44,
+  "quantity" : 3,
+  "name" : "Лего"
+} ]
